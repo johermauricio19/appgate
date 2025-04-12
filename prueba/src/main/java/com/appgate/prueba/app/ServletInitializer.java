@@ -1,4 +1,4 @@
-package com.appgate.prueba;
+package com.appgate.prueba.app;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
